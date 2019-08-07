@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8006ccd9.chunk.css",
+    "main.js": "/static/js/main.be8a1d37.chunk.js",
+    "main.js.map": "/static/js/main.be8a1d37.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.721a365c.chunk.js": "/static/js/2.721a365c.chunk.js",
+    "static/js/2.721a365c.chunk.js.map": "/static/js/2.721a365c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cc01d9a37dc3c94af846f8a7a544e970.js": "/precache-manifest.cc01d9a37dc3c94af846f8a7a544e970.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.8006ccd9.chunk.css.map": "/static/css/main.8006ccd9.chunk.css.map",
+    "static/media/email.png": "/static/media/email.93229781.png",
+    "static/media/App.css": "/static/media/fundo.9b5d3834.jpg",
+    "static/media/logo2.png": "/static/media/logo2.f2bb2385.png",
+    "static/media/servicos.png": "/static/media/servicos.2fc8d51f.png",
+    "static/media/telefone.png": "/static/media/telefone.e9b0ce76.png",
+    "static/media/website.png": "/static/media/website.3f04372a.png"
+  }
+}
