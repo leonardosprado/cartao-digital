@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/leonardosprado/cartao-digital/master/cartao.png?raw=true "Screenshot Pagina Home")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
